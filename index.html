@@ -7,7 +7,7 @@
    body {
     margin: 0;
     height: 100%;
-    background: url(1.jpg);
+    background: url(42.jpg);
     background-size: cover;
 <audio src="3.mp3" autoplay>
 </audio>
